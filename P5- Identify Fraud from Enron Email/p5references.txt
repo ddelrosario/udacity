@@ -1,0 +1,15 @@
+https://discussions.udacity.com/t/selectkbest-and-stratifiedshufflesplit/196653/7
+
+https://discussions.udacity.com/t/how-to-find-out-the-features-selected-by-selectkbest/45118
+
+http://stackoverflow.com/questions/4357851/creating-or-assigning-variables-from-a-dictionary-in-python
+
+http://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html
+
+https://github.com/scikit-learn/scikit-learn/issues/2386
+
+http://stackoverflow.com/questions/31161637/grid-search-cross-validation-in-sklearn
+
+http://machinelearningmastery.com/how-to-tune-algorithm-parameters-with-scikit-learn/
+
+http://stackoverflow.com/questions/40245277/visualize-feature-selection-in-descending-order-with-selectkbest
