@@ -1,0 +1,37 @@
+Data
+http://eric.clst.org/Stuff/USGeoJSON
+https://pypi.python.org/pypi/geopy/1.11.0
+https://inkplant.com/code/state-latitudes-longitudes
+
+Projecting
+https://github.com/d3/d3-geo/blob/master/README.md#geoAlbersUsa
+
+Reading Data
+http://learnjsdata.com/read_data.html
+
+Understanding Nesting and Showing data
+http://learnjsdata.com/group_data.html
+http://bl.ocks.org/phoebebright/raw/3176159/
+
+Nest & filter
+http://bl.ocks.org/jfreels/7010699
+
+Merging States
+https://gist.github.com/mbostock/5416405
+
+Mouse Events
+http://bl.ocks.org/WilliamQLiu/76ae20060e19bf42d774
+
+Legends
+http://d3-legend.susielu.com/
+http://d3-legend-v3.susielu.com/
+
+Adding Map Interaction
+http://duspviz.mit.edu/d3-workshop/mapping-data-with-d3/
+
+
+https://bost.ocks.org/mike/map/
+
+Let's Make a Bubble Map
+https://bost.ocks.org/mike/bubble-map/
+http://www.d3noob.org/2014/02/attributes-in-d3js.html
