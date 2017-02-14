@@ -1,0 +1,5 @@
+https://s3.amazonaws.com/content.udacity-data.com/courses/ud651/diamondsExample_2016-05.html
+
+https://s3.amazonaws.com/udacity-hosted-downloads/ud651/wineQualityInfo.txt
+
+https://classroom.udacity.com/nanodegrees/nd002/parts/0021345407/modules/316518875375460/lessons/685569241/concepts/8245785460923#
