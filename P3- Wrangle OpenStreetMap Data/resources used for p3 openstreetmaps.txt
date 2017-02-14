@@ -1,0 +1,11 @@
+http://stackoverflow.com/questions/3095434/inserting-newlines-in-xml-file-generated-via-xml-etree-elementtree-in-python
+
+https://discussions.udacity.com/t/tag-types-and-improving-street-names-locally/46437/20
+
+https://discussions.udacity.com/t/quiz-for-preparing-database-problem-with-address-and-node-refs/179744/15
+
+https://discussions.udacity.com/t/case-study-last-problem-preparing-for-database/23645/3
+
+https://github.com/j450h1/P3-Data-Wrangling-with-MongoDB/blob/master/5.%20data.py
+
+https://github.com/paul-reiners/udacity-data-wrangling-mongo-db/blob/master/maps/data.py
