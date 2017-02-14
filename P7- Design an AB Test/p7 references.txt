@@ -1,0 +1,6 @@
+a/b testing overview
+http://napitupulu-jon.appspot.com/posts/abtesting-overview-udacity.html
+
+https://en.wikipedia.org/wiki/A/B_testing
+
+http://graphpad.com/quickcalcs/binomial1.cfm
