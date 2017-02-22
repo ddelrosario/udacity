@@ -1,1 +1,3 @@
 Use R and apply exploratory data analysis techniques to explore a selected data set for distributions, outliers, and anomalies.
+
+The red wines quality dataset contains information on almost 1600 red wines across twelve variables from 2009. All of the variables were input variables except quality which is the output variable. Quality was graded by experts on a scale of 0 (very bad) to 10 (very excellent). I started to explore the invididual variables in the dataset and then started to plot the variables to get an understanding of their distributions. Then I explored the quality variable versus various input variables to see their relationships.
