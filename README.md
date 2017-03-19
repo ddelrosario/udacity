@@ -14,5 +14,3 @@ P5- Identify Fraud from Enron Email
 P6- Make Effective Data Visualization
 
 P7- Design an AB Test
-
-P8 - Technical Interview Practice
