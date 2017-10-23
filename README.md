@@ -16,3 +16,5 @@ P6- Make Effective Data Visualization
 P7- Design an AB Test
 
 P8 - Python Web Crawler
+
+P9 - Data Visualization in Tableau
